@@ -1,3 +1,4 @@
+# This project is a final project for COEN 275 ( Object-Oriented Design and Programming)
 # server needs to run before client
 
 # config 
